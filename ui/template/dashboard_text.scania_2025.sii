@@ -59,7 +59,7 @@ ui::text_template : txt.scania_sd_25.temp {
 
 ui::text_template : txt.scania_sd_25.trip_dst {
 	name: "zDB Scania Smart Dash 2025 Trip Distance"
-	text: "<color value=FFF0DBCC><align hstyle=right><font face=/font/db_scania_sans_cy_cond.font xscale=2.15 yscale=2.15>%0</font><offset vshift=6><font face=/font/db_scania_sans_cy_cond.font xscale=1.5 yscale=1.5>.0 %1</font></align>"
+	text: "<color value=FFF0DBCC><align hstyle=right><font face=/font/db_scania_sans_cy_cond.font xscale=2.15 yscale=2.15>%0</font><offset vshift=10><font face=/font/db_scania_sans_cy_cond.font xscale=1.5 yscale=1.5>.0 %1</font></align>"
 }
 
 ui::text_template : txt.scania_sd_25.val2_bgray {
@@ -69,7 +69,7 @@ ui::text_template : txt.scania_sd_25.val2_bgray {
 
 ui::text_template : txt.scania_sd_25.val2_white {
 	name: "zDB Scania Smart Dash 2025 Double Val Whitey"
-	text: "<color value=FFF0DBCC><align hstyle=left><font face=/font/db_scania_sans_cy_cond.font xscale=2.15 yscale=2.15>%0 </font><offset vshift=6><font face=/font/db_scania_sans_cy_cond.font xscale=1.5 yscale=1.5>%1</font></align>"
+	text: "<color value=FFF0DBCC><align hstyle=left><font face=/font/db_scania_sans_cy_cond.font xscale=2.15 yscale=2.15>%0 </font><offset vshift=10><font face=/font/db_scania_sans_cy_cond.font xscale=1.5 yscale=1.5>%1</font></align>"
 }
 
 ui::text_template : txt.scania_sd_25.spd_lmt {

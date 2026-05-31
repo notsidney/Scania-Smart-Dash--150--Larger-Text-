@@ -398,8 +398,8 @@ ui::text_common : _nameless._.eta {
  look_template: txt.scania_sd_25.vall_white
  value: "00:00"
  text: ""
- coords_l: 230
- coords_r: 350
+ coords_l: 220
+ coords_r: 340
  coords_t: 800
  coords_b: 760
  area_l: 230
@@ -417,8 +417,8 @@ ui::text_common : _nameless._.rst_lab {
  look_template: txt.scania_sd_25.vall_white
  value: RST
  text: ""
- coords_l: 370
- coords_r: 442
+ coords_l: 360
+ coords_r: 432
  coords_t: 800
  coords_b: 760
  area_l: 370
@@ -436,8 +436,8 @@ ui::text_common : _nameless._.rst {
  look_template: txt.scania_sd_25.vall_white
  value: "00:00"
  text: ""
- coords_l: 462
- coords_r: 582
+ coords_l: 442
+ coords_r: 562
  coords_t: 800
  coords_b: 760
  area_l: 462

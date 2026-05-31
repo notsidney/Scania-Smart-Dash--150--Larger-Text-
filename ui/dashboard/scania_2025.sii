@@ -135,11 +135,11 @@ ui::text : _nameless._.elec_on_bg {
 ui::text : _nameless._.bcg {
  text: "<color value=FFFFFFFF>\r\n<img src=/material/ui/dashboard/scania_2025/display.mat yscale=stretch left=0 right=0.5 top=0 bottom=0.375 width=720>\r\n<img src=/material/ui/dashboard/scania_2025/display.mat yscale=stretch left=0.5 right=0 top=0 bottom=0.375 width=720>\r\n<ret><offset hshift=326 vshift=49><img src=/material/ui/dashboard/scania_2025/display.mat left=0 right=0.0966796875 top=0.375 bottom=0.6435546875 width=139 height=386>\r\n<ret><offset hshift=974 vshift=49><img src=/material/ui/dashboard/scania_2025/display.mat left=0.38671875 right=0.4833984375 top=0.375 bottom=0.6435546875 width=140 height=386>\r\n\r\n<color value=FF7E6D60>\r\n<font face=/font/db_scania_sans_cy_cond.font xscale=1.0 yscale=0.9>\r\n<ret><offset hshift=395 vshift=440>km/h\r\n<ret><offset hshift=969 vshift=440>rpm x100\r\n</font>"
  coords_l: 0
- coords_r: 1440
+ coords_r: 1439
  coords_t: 540
  coords_b: 0
  area_l: 0
- area_r: 1440
+ area_r: 1439
  area_t: 540
  area_b: 0
  id: 0
@@ -606,14 +606,14 @@ ui::text : _nameless._.cc_truck {
 
 ui::text : _nameless._.tripdst_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.0625 right=0.125 top=0.8125 bottom=0.875>"
- coords_l: 1018
+ coords_l: 1034
  coords_r: 1066
- coords_t: 55
- coords_b: 7
- area_l: 1018
+ coords_t: 47
+ coords_b: 15
+ area_l: 1034
  area_r: 1066
- area_t: 55
- area_b: 7
+ area_t: 47
+ area_b: 15
  id: 0
  layer: 5
  tab: -1
@@ -776,12 +776,12 @@ ui::text_common : _nameless._.clock {
  look_template: txt.scania_sd_25.valr_white
  value: "3:55"
  text: ""
- coords_l: 432
- coords_r: 624
+ coords_l: 389
+ coords_r: 581
  coords_t: 53
  coords_b: 0
- area_l: 432
- area_r: 624
+ area_l: 389
+ area_r: 581
  area_t: 53
  area_b: 0
  id: 1050
@@ -814,11 +814,11 @@ ui::text_common : _nameless._.trip_dst {
  look_template: txt.scania_sd_25.trip_dst
  value: "92444|km"
  text: ""
- coords_l: 1015
+ coords_l: 1068
  coords_r: 1258
  coords_t: 53
  coords_b: 0
- area_l: 1015
+ area_l: 1068
  area_r: 1258
  area_t: 53
  area_b: 0
@@ -1212,12 +1212,12 @@ ui::text : _nameless._.scr_page2 {
 
 ui::text : _nameless._.avg_cons_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.125 right=0.1875 top=0.6875 bottom=0.75>"
- coords_l: 489
- coords_r: 555
+ coords_l: 570
+ coords_r: 636
  coords_t: 371
  coords_b: 305
- area_l: 489
- area_r: 555
+ area_l: 570
+ area_r: 636
  area_t: 371
  area_b: 305
  id: 0
@@ -1231,14 +1231,14 @@ ui::text_common : _nameless._.avg_cons {
  look_template: txt.scania_sd_25.val2_white
  value: "11.3|l/100km"
  text: ""
- coords_l: 564
- coords_r: 744
+ coords_l: 645
+ coords_r: 890
  coords_t: 358
- coords_b: 298
- area_l: 564
- area_r: 744
+ coords_b: 306
+ area_l: 645
+ area_r: 890
  area_t: 358
- area_b: 298
+ area_b: 306
  id: 1170
  layer: 2
  tab: -1
@@ -1248,14 +1248,14 @@ ui::text_common : _nameless._.avg_cons {
 
 ui::text : _nameless._.avg_spd_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.1875 right=0.25 top=0.8125 bottom=0.875>"
- coords_l: 489
- coords_r: 555
- coords_t: 277
- coords_b: 211
- area_l: 489
- area_r: 555
- area_t: 277
- area_b: 211
+ coords_l: 570
+ coords_r: 636
+ coords_t: 303
+ coords_b: 237
+ area_l: 570
+ area_r: 636
+ area_t: 303
+ area_b: 237
  id: 0
  layer: 2
  tab: -1
@@ -1267,14 +1267,14 @@ ui::text_common : _nameless._.avg_spd {
  look_template: txt.scania_sd_25.val2_white
  value: "100|km/h"
  text: ""
- coords_l: 564
- coords_r: 744
- coords_t: 266
- coords_b: 206
- area_l: 564
- area_r: 744
- area_t: 266
- area_b: 206
+ coords_l: 645
+ coords_r: 890
+ coords_t: 290
+ coords_b: 238
+ area_l: 645
+ area_r: 890
+ area_t: 290
+ area_b: 238
  id: 1400
  layer: 2
  tab: -1
@@ -1284,14 +1284,14 @@ ui::text_common : _nameless._.avg_spd {
 
 ui::text : _nameless._.date_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.1875 right=0.25 top=0.6875 bottom=0.75>"
- coords_l: 736
- coords_r: 787
- coords_t: 361
- coords_b: 310
- area_l: 736
- area_r: 787
- area_t: 361
- area_b: 310
+ coords_l: 578
+ coords_r: 629
+ coords_t: 228
+ coords_b: 177
+ area_l: 578
+ area_r: 629
+ area_t: 228
+ area_b: 177
  id: 0
  layer: 2
  tab: -1
@@ -1303,14 +1303,14 @@ ui::text_common : _nameless._.date {
  look_template: txt.scania_sd_25.val2_white
  value: "2025-06-06|"
  text: ""
- coords_l: 800
- coords_r: 963
- coords_t: 358
- coords_b: 298
- area_l: 800
- area_r: 963
- area_t: 358
- area_b: 298
+ coords_l: 645
+ coords_r: 890
+ coords_t: 222
+ coords_b: 170
+ area_l: 645
+ area_r: 890
+ area_t: 222
+ area_b: 170
  id: 0
  layer: 2
  tab: -1
@@ -1320,14 +1320,14 @@ ui::text_common : _nameless._.date {
 
 ui::text : _nameless._.trip1_dst_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.1875 right=0.25 top=0.75 bottom=0.8125>"
- coords_l: 736
- coords_r: 787
- coords_t: 272
- coords_b: 221
- area_l: 736
- area_r: 787
- area_t: 272
- area_b: 221
+ coords_l: 578
+ coords_r: 629
+ coords_t: 160
+ coords_b: 109
+ area_l: 578
+ area_r: 629
+ area_t: 160
+ area_b: 109
  id: 0
  layer: 2
  tab: -1
@@ -1339,14 +1339,14 @@ ui::text_common : _nameless._.trip1_dst {
  look_template: txt.scania_sd_25.val2_white
  value: "92444|km"
  text: ""
- coords_l: 800
- coords_r: 963
- coords_t: 266
- coords_b: 206
- area_l: 800
- area_r: 963
- area_t: 266
- area_b: 206
+ coords_l: 645
+ coords_r: 890
+ coords_t: 154
+ coords_b: 102
+ area_l: 645
+ area_r: 890
+ area_t: 154
+ area_b: 102
  id: 1210
  layer: 2
  tab: -1
@@ -1836,7 +1836,7 @@ ui::text : _nameless._.scr_page6 {
 }
 
 ui::text : _nameless._.nonotif_txt {
- text: "<color value=FFF0DBCC><align hstyle=center><font face=/font/db_scania_sans_cy_cond.font xscale=1.2 yscale=1.2>No notifications</font></align>"
+ text: "<color value=FFF0DBCC><align hstyle=center><font face=/font/db_scania_sans_cy_cond.font xscale=1.8 yscale=1.8>No notifications</font></align>"
  coords_l: 584
  coords_r: 857
  coords_t: 269

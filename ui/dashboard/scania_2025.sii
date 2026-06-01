@@ -1950,17 +1950,17 @@ ui::text : _nameless._.scr_page7 {
 }
 
 ui::text_common : _nameless._.no_spd_lmt1 {
- look_template: txt.scania_sd_25.spd_lmt
+ look_template: txt.scania_sd_25.spd_lmt1
  value: "--"
  text: ""
- coords_l: 787
- coords_r: 883
- coords_t: 178
- coords_b: 82
- area_l: 787
- area_r: 883
- area_t: 178
- area_b: 82
+ coords_l: 770
+ coords_r: 898
+ coords_t: 188
+ coords_b: 60
+ area_l: 770
+ area_r: 898
+ area_t: 188
+ area_b: 60
  id: 0
  layer: 5
  tab: -1
@@ -1969,17 +1969,17 @@ ui::text_common : _nameless._.no_spd_lmt1 {
 }
 
 ui::text_common : _nameless._.spd_lmt1 {
- look_template: txt.scania_sd_25.spd_lmt
+ look_template: txt.scania_sd_25.spd_lmt1
  value: 99
  text: ""
- coords_l: 787
- coords_r: 883
- coords_t: 178
- coords_b: 82
- area_l: 787
- area_r: 883
- area_t: 178
- area_b: 82
+ coords_l: 770
+ coords_r: 898
+ coords_t: 188
+ coords_b: 60
+ area_l: 770
+ area_r: 898
+ area_t: 188
+ area_b: 60
  id: 1610
  layer: 6
  tab: -1
@@ -1989,14 +1989,14 @@ ui::text_common : _nameless._.spd_lmt1 {
 
 ui::text : _nameless._.gear_mode_i1 {
  text: "<color value=FFAD9E93><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.125 right=0.1875 top=0.875 bottom=0.9375>"
- coords_l: 1064
- coords_r: 1112
- coords_t: 352
- coords_b: 304
- area_l: 1064
- area_r: 1112
- area_t: 352
- area_b: 304
+ coords_l: 1101
+ coords_r: 1165
+ coords_t: 354
+ coords_b: 290
+ area_l: 1101
+ area_r: 1165
+ area_t: 354
+ area_b: 290
  id: 0
  layer: 5
  tab: -1
@@ -2005,17 +2005,17 @@ ui::text : _nameless._.gear_mode_i1 {
 }
 
 ui::text_common : _nameless._.gear_modd1 {
- look_template: txt.scania_sd_25.vall_white
+ look_template: txt.scania_sd_25.vall_white1
  value: D
  text: ""
  coords_l: 976
- coords_r: 1024
+ coords_r: 1040
  coords_t: 349
- coords_b: 293
+ coords_b: 274
  area_l: 976
- area_r: 1024
+ area_r: 1040
  area_t: 349
- area_b: 293
+ area_b: 274
  id: 1380
  layer: 5
  tab: -1
@@ -2024,17 +2024,17 @@ ui::text_common : _nameless._.gear_modd1 {
 }
 
 ui::text_common : _nameless._.gear_mode1 {
- look_template: txt.scania_sd_25.valr_gray
+ look_template: txt.scania_sd_25.valr_gray1
  value: A
  text: ""
  coords_l: 976
- coords_r: 1045
+ coords_r: 1072
  coords_t: 349
- coords_b: 293
+ coords_b: 274
  area_l: 976
- area_r: 1045
+ area_r: 1072
  area_t: 349
- area_b: 293
+ area_b: 274
  id: 1310
  layer: 5
  tab: -1
@@ -2043,17 +2043,17 @@ ui::text_common : _nameless._.gear_mode1 {
 }
 
 ui::text_common : _nameless._.gear1 {
- look_template: txt.scania_sd_25.vall_gray
+ look_template: txt.scania_sd_25.vall_gray1
  value: 12
  text: ""
- coords_l: 976
- coords_r: 1051
- coords_t: 294
- coords_b: 238
- area_l: 976
- area_r: 1051
- area_t: 294
- area_b: 238
+ coords_l: 975
+ coords_r: 1050
+ coords_t: 281
+ coords_b: 206
+ area_l: 975
+ area_r: 1050
+ area_t: 281
+ area_b: 206
  id: 1300
  layer: 5
  tab: -1
@@ -2062,7 +2062,7 @@ ui::text_common : _nameless._.gear1 {
 }
 
 ui::text_common : _nameless._.speed1 {
- look_template: txt.scania_sd_25.speed_big
+ look_template: txt.scania_sd_25.speed1
  value: "80|km/h"
  text: ""
  coords_l: 531
@@ -2102,14 +2102,14 @@ ui::group : _nameless._.cc1 {
 
 ui::text : _nameless._.cc_ico1 {
  text: "<color value=FF9FB200><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0 right=0.0625 top=0.75 bottom=0.8125>"
- coords_l: 366
+ coords_l: 349
  coords_r: 417
- coords_t: 355
- coords_b: 304
- area_l: 366
+ coords_t: 367
+ coords_b: 299
+ area_l: 349
  area_r: 417
- area_t: 355
- area_b: 304
+ area_t: 367
+ area_b: 299
  id: 0
  layer: 5
  tab: -1
@@ -2118,17 +2118,17 @@ ui::text : _nameless._.cc_ico1 {
 }
 
 ui::text_common : _nameless._.cc_speed1 {
- look_template: txt.scania_sd_25.valr_green
+ look_template: txt.scania_sd_25.valr_green1
  value: 80
  text: ""
- coords_l: 316
- coords_r: 416
- coords_t: 298
- coords_b: 256
- area_l: 316
- area_r: 416
- area_t: 298
- area_b: 256
+ coords_l: 286
+ coords_r: 419
+ coords_t: 287
+ coords_b: 231
+ area_l: 286
+ area_r: 419
+ area_t: 287
+ area_b: 231
  id: 1100
  layer: 5
  tab: -1

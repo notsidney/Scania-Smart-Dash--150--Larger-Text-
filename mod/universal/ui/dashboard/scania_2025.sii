@@ -608,12 +608,12 @@ ui::text : _nameless._.tripdst_i {
  text: "<color value=FFF0DBCC><img src=/material/ui/dashboard/scania_2025/display.mat xscale=stretch yscale=stretch left=0.0625 right=0.125 top=0.8125 bottom=0.875>"
  coords_l: 1000
  coords_r: 1032
- coords_t: 50
- coords_b: 18
+ coords_t: 48
+ coords_b: 16
  area_l: 1000
  area_r: 1032
- area_t: 50
- area_b: 18
+ area_t: 48
+ area_b: 16
  id: 0
  layer: 5
  tab: -1
@@ -759,11 +759,11 @@ ui::text_common : _nameless._.range {
  text: ""
  coords_l: 284
  coords_r: 478
- coords_t: 53
+ coords_t: 51
  coords_b: 0
  area_l: 284
  area_r: 478
- area_t: 53
+ area_t: 51
  area_b: 0
  id: 1080
  layer: 5
@@ -778,11 +778,11 @@ ui::text_common : _nameless._.clock {
  text: ""
  coords_l: 389
  coords_r: 581
- coords_t: 53
+ coords_t: 51
  coords_b: 0
  area_l: 389
  area_r: 581
- area_t: 53
+ area_t: 51
  area_b: 0
  id: 1050
  layer: 5
@@ -797,11 +797,11 @@ ui::text_common : _nameless._.ambient_temp {
  text: ""
  coords_l: 765
  coords_r: 957
- coords_t: 53
+ coords_t: 51
  coords_b: 0
  area_l: 765
  area_r: 957
- area_t: 53
+ area_t: 51
  area_b: 0
  id: 1000
  layer: 5
@@ -816,11 +816,11 @@ ui::text_common : _nameless._.trip_dst {
  text: ""
  coords_l: 1032
  coords_r: 1258
- coords_t: 53
+ coords_t: 51
  coords_b: 0
  area_l: 1032
  area_r: 1258
- area_t: 53
+ area_t: 51
  area_b: 0
  id: 1210
  layer: 58
@@ -977,7 +977,7 @@ ui::text : _nameless._.cons_ins_bcg {
 ui_text_bar : _nameless._.cons_ins_bar {
  vertical: false
  min_size: 0
- max_size: 228
+ max_size: 145
  min_value: 10
  max_value: 0
  text: "<color value=FF9FB200><img src=/material/ui/white.mat xscale=stretch yscale=stretch>"
